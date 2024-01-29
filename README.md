@@ -40,7 +40,7 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-rafaelcunha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devrafaelcunha/)](https://www.linkedin.com/in/devrafaelcunha/)
+[![Linkedin](https://img.shields.io/badge/-devrafaelcunha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devrafaelcunha/)](https://www.linkedin.com/in/devrafaelcunha/)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-green?style=flat-square&logo=Whatsapp&logoColor=white&link=https://contate.me/rafaelcunha)](https://contate.me/rafaelcunha)
 [![Gmail Badge](https://img.shields.io/badge/-dev.rafaelcunha@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.rafaelcunha@gmail.com)](mailto:dev.rafaelcunha@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/dev-rafaelcunha?label=follow&style=social)](https://github.com/dev-rafaelcunha)
